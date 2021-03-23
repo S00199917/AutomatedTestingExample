@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomatedTestingExample", "AutomatedTestingExample\AutomatedTestingExample.csproj", "{542F868F-1A42-42B9-9099-F28155635C82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomatedTestingExample.Tests", "AutomatedTestingExample.Tests\AutomatedTestingExample.Tests.csproj", "{38CAFCF5-1C02-47DA-8435-58E286940937}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{542F868F-1A42-42B9-9099-F28155635C82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{542F868F-1A42-42B9-9099-F28155635C82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{542F868F-1A42-42B9-9099-F28155635C82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{542F868F-1A42-42B9-9099-F28155635C82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38CAFCF5-1C02-47DA-8435-58E286940937}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38CAFCF5-1C02-47DA-8435-58E286940937}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38CAFCF5-1C02-47DA-8435-58E286940937}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38CAFCF5-1C02-47DA-8435-58E286940937}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {761B7570-E68B-4CD7-89D7-A12315DCBF83}
+	EndGlobalSection
+EndGlobal
